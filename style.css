@@ -1,0 +1,136 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    border:0px;
+}
+h1
+{
+    line-height: 0px;
+    padding-bottom: 10px;
+    
+}
+p{
+    color:dimgrey;
+}
+#myname{
+    font-size: 40px;
+    font-weight: 1000px;
+    color:palevioletred;
+    
+}
+.half-width{
+    width:45%;
+    float: left;
+    padding-top: 100px;
+    
+}
+.half-width img{
+    height: 400px;
+    width:400px;
+    padding-left: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(5deg,lightblue ,palevioletred);
+    color:white;
+    border-radius: 10px;
+    padding:10px 40px;
+    
+}
+.top-banner
+
+ {
+    
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+section{
+    height:500px;
+    
+}
+.biography{
+    background-image:url("images/biography-bg.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+}
+.widther {
+    float: left;
+    width: 30%;
+    padding-right: 5px;}
+.my-latest-work{
+    background-image:url("images/latest-work-bg.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#whatsay{
+    font-size: 40px;
+    padding-top: 60px;
+}
+#client{
+    padding-top: 50px;
+    
+
+}
+.desi{
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 20px;
+
+}
+
+#mail{
+    font-size:40px;
+    border:1px,solid,black;
+    border-radius: 10px;
+    border-width:5px ;   
+}
+.communi{
+   width:750px;
+   height: 250px;
+   margin: 100px auto;
+   background: linear-gradient(5deg,lightblue ,palevioletred);
+   position: relative;
+   border-radius: 50px;
+}
+.footers{
+    background-image:url("images/footer-bg.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.fc{
+    color:white;
+}
+#full-stack{
+    border-left:2px solid; 
+    border-image:linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+    padding-left: 10px;
+
+}
+#baby-web{
+    border-left:2px solid; 
+    border-image:linear-gradient(180deg,blue,white);
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+.name-highlighter{
+    color:blue;}
+#exp{
+    
+    font-size: 50px;
+}
+.single-experience{
+    box-shadow:5px  5px 40px grey;
+    border-radius:15px;
+    height:80%;
+    background-color: whitesmoke;
+    
+    
+}
+    
+
+
